@@ -1,9 +1,11 @@
 html {
-    scroll-padding-top: 68px;
+    scroll-padding-top: 116px;
 }
 
 body {
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+font-family: 'DIN NEXT';
+background-color: #D5E3FC;
+}
 
 
 /* :target{
@@ -13,3 +15,31 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 
 
 /* #11757D */
+.navbar-brand small {
+  display:block;
+  font-size:12px;
+  font-weight: bold;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+
+.navbar{
+  background-color: #D5E3FC;
+}
+
+
+#i9 {
+  background-color: #D5E3FC ;
+}
+
+
+.icon-red{
+  color: #F4436C;
+}
+
+#D5E3FC
+
+#F4436C
+#B6B8BA
+
+#EBEDFE
