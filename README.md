@@ -1,3 +1,3 @@
 # PerformLandingPage
 
-Simple and elegant landing page built with bootstrap 5
+Elegent and responsive landing page built with bootstrap 5
